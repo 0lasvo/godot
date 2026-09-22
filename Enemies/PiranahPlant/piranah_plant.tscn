@@ -119,7 +119,7 @@ shape = SubResource("RectangleShape2D_plant_body")
 position = Vector2(0, -18)
 
 [node name="Hurtbox" type="Area2D" parent="."]
-collision_layer = 0
+collision_layer = 4
 collision_mask = 8
 script = ExtResource("4_hurt")
 
