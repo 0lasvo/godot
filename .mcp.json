@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "beckett": {
+      "type": "http",
+      "url": "http://127.0.0.1:8770/mcp/f9d78941af06cbc11c45ba292f06c26c"
+    },
+    "godot": {
+      "type": "http",
+      "url": "http://127.0.0.1:8770/mcp/f9d78941af06cbc11c45ba292f06c26c"
+    }
+  }
+}
